@@ -1,5 +1,5 @@
 
-<img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/favicon.png" min-width="400px" max-width="200px" width="200px" alt="ArthWorks">
+<img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/favicon.png" min-width="400px" max-width="100px" width="100px" alt="ArthWorks">
 
 
 <!--
