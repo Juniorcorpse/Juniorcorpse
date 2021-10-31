@@ -1,4 +1,4 @@
-<a href="https://www.arthworks.com.br/" alt="arthworks" target="_ blank">
+<a href="https://www.arthworks.com.br/" alt="arthworks" target='_blank'>
 <img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/favicon.png" min-width="400px" max-width="100px" width="100px" alt="ArthWorks"></a>
 
 
