@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 💜 Olá, meu nome é <strong>Junior Souza !</strong>👋😄
 
-> Sou desenvolver FullStack, atualmente elevando meus codigos ao nivel de Design Patterns.⚡
+> Sou desenvolvedor FullStack, atualmente elevando meus codigos ao nivel de Design Patterns.⚡
 
 🔭 Estou desenvolvendo um aplicativo web no ramo contabel.
 
