@@ -54,24 +54,24 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juniorcorpse&show_icons=true)
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:souzajrmar@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:souzajrmar@gmail.com"/></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5591980856499&text=Olá! Gostaria de colocar minha ideia online" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5591980856499&text=Olá! Gostaria de colocar minha ideia online"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/immortal.abbath.7" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/immortal.abbath.7"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/jr_arthworks" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jr_arthworks/"/></a>
 </p>  
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Junior](https://img.shields.io/badge/-Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069)]
+
 [![Linkedin: Junior](https://img.shields.io/badge/-Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069)](https://www.linkedin.com/in/alcenir-souza-91945069)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/Juniorcorpse?label=follow&style=social)](https://github.com/Juniorcorpse)
