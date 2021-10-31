@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <a href="mailto:souzajrmar@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:souzajrmar@gmail.com"/></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/alcenir-souza-91945069" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5591980856499&text=Olá! Gostaria de colocar minha ideia online" alt="WhatsApp">
@@ -73,5 +73,5 @@ Here are some ideas to get you started:
 
 
 [![Linkedin: Junior](https://img.shields.io/badge/-Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069)](https://www.linkedin.com/in/alcenir-souza-91945069)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/Juniorcorpse?label=follow&style=social)](https://github.com/Juniorcorpse)
+[![Gmail Badge](https://img.shields.io/badge/-souzajrmar@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub Juniorcorpse]( https://img.shields.io/github/followers/Juniorcorpse?label=follow&style=social)](https://github.com/Juniorcorpse)
