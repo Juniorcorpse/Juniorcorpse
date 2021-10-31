@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juniorcorpse&show_icons=true)
 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
 <p align="left">
   <a href="mailto:souzajrmar@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:souzajrmar@gmail.com"/></a>
@@ -69,9 +71,5 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/jr_arthworks" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jr_arthworks/"/></a>
 </p>  
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-
-[![Linkedin: Junior](https://img.shields.io/badge/-Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069)](https://www.linkedin.com/in/alcenir-souza-91945069)
-[![Gmail Badge](https://img.shields.io/badge/-souzajrmar@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub Juniorcorpse]( https://img.shields.io/github/followers/Juniorcorpse?label=follow&style=social)](https://github.com/Juniorcorpse)
