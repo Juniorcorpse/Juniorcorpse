@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:souzajrmar@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:souzajrmar@gmail.com"/></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069/" /></a>
@@ -69,3 +69,8 @@ Here are some ideas to get you started:
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jr_arthworks/"/></a>
 </p>  
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Junior](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069/)](Alcenir (Junior) Souza)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
