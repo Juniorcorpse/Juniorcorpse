@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 > Sou desenvolvedor FullStack, atualmente elevando meus codigos ao nivel de Design Patterns.⚡
 
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Formado em **Bacharelado em Ciência da Computação** no <a href="https://www.suafaculdade.com.br/fapan/">FAPAN</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **PHP, typescript, react, Laravel...**.
+
 🔭 Estou desenvolvendo um aplicativo web no ramo contabel.
 
 💬 Deseja colocar sua ideia online? entre em contato.
@@ -35,7 +39,7 @@ Here are some ideas to get you started:
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
