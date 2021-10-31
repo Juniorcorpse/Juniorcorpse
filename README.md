@@ -1,4 +1,4 @@
-### Olá eu Junior Souza 👋😄
+### Hi my name is Junior Souza 👋😄
 
 <!--
 **Juniorcorpse/Juniorcorpse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
