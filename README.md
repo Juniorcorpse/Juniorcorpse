@@ -1,4 +1,5 @@
-![ArthWorks](	https://www.arthworks.com.br/themes/cafeweb/assets/images/favicon.png)
+
+<img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/favicon.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <!--
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 💜 Olá, meu nome é <strong>Junior Souza !</strong>👋😄
 
-> Sou desenvolver FullStack, atualmente elvando meus codigos ao nivel de Design Patterns.
+> Sou desenvolver FullStack, atualmente elevando meus codigos ao nivel de Design Patterns.⚡
 
 🔭 Estou desenvolvendo um aplicativo web no ramo contabel.
 
