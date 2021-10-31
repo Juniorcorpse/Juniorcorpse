@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 > Sou desenvolvedor FullStack, atualmente elevando meus codigos ao nivel de Design Patterns.⚡
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Bacharelado em Ciência da Computação** no <a href="https://www.suafaculdade.com.br/fapan/">FAPAN</a>.
+- 🎓 &nbsp; **Bacharelado em Ciência da Computação** na <a href="https://www.suafaculdade.com.br/fapan/">FAPAN</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **PHP, typescript, react, Laravel...**.
 
 🔭 Estou desenvolvendo um aplicativo web no ramo contabel.
