@@ -1,5 +1,5 @@
 
-<img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/favicon.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/favicon.png" min-width="400px" max-width="400px" width="400px" alt="Computador iuriCode">
 
 
 <!--
