@@ -1,6 +1,9 @@
+----
+----
 <a href="https://www.arthworks.com.br/" alt="arthworks" target='_blank'>
 <img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/logoGmai.png" min-width="400px" max-width="200px" width="200px" alt="ArthWorks"></a>
-
+----
+----
 
 <!--
 **Juniorcorpse/Juniorcorpse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +22,7 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 -->
-----
-----
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-----
-----
 
 
 ## 💜 Olá, meu nome é <strong>Junior Souza !</strong>👋😄
