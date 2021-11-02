@@ -1,7 +1,7 @@
 ----
 
 <a href="https://www.arthworks.com.br/" alt="arthworks" target='_blank'>
-<img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/logoGmai.png" min-width="400px" max-width="200px" width="200px" alt="ArthWorks"></a>
+<img src="https://www.arthworks.com.br/themes/cafeweb/assets/images/logoGmai.png" min-width="400px" max-width="200px" width="200px" alt="ArthWorks" align="center"></a>
 
 ----
 
