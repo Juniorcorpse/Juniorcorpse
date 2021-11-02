@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+----
+
 ## 💜 Olá, meu nome é <strong>Junior Souza !</strong>👋😄
 
 > Sou desenvolvedor FullStack, atualmente elevando meus codigos ao nivel de Design Patterns.⚡
