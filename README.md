@@ -61,15 +61,17 @@ https://github.com/Juniorcorpse/wp/blob/main/computer-illustration.png?raw=true
 
 ## ⭐ Informações sobre minha conta GitHub
 <a href="https://github.com/Juniorcorpse">
- ![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juniorcorpse&theme=dracula)
 
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juniorcorpse&theme=dracula)
 
 </a>
 
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Juniorcorpse">
-  ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juniorcorpse&theme=dracula)
+
+ ![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juniorcorpse&theme=dracula)
+  
 </a>
 
 
