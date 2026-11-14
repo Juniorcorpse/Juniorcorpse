@@ -85,8 +85,12 @@ https://github.com/Juniorcorpse/wp/blob/main/computer-illustration.png?raw=true
   <a href="https://www.linkedin.com/in/alcenir-souza-91945069" alt="Linkedin" target="_ blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcenir-souza-91945069/" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5591980856499&text=Olá! Gostaria de colocar minha ideia online" alt="WhatsApp" target="_ blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5591980856499&text=Olá! Gostaria de colocar minha ideia online"/></a>
+ <a href="https://wa.me/5591980856499?text=Ol%C3%A1%21%20Gostaria%20de%20colocar%20minha%20ideia%20online">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&amp;logo=whatsapp&amp;logoColor=white"
+    alt="Fale comigo pelo WhatsApp"
+  >
+</a>
 
   <a href="https://www.facebook.com/immortal.abbath.7" alt="Facebook" target="_ blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/immortal.abbath.7"/></a>
