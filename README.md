@@ -63,13 +63,13 @@ https://github.com/Juniorcorpse/wp/blob/main/computer-illustration.png?raw=true
 <a href="https://github.com/Juniorcorpse">
  ![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juniorcorpse&theme=dracula)
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juniorcorpse&theme=dracula)
+
 </a>
 
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Juniorcorpse">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorcorpse&theme=dracula&hide_langs_below=1](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juniorcorpse&theme=dracula)" alt="**Junior Souza** github stats" />
+  ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juniorcorpse&theme=dracula)
 </a>
 
 
